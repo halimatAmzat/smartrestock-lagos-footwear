@@ -88,6 +88,9 @@ This project shows that even a small, local dataset combined
 with simple data science techniques can produce actionable, 
 real-world results.
 
+## Project Video
+Watch the 2-minute project video here -> https://youtu.be/r-Djvdi_0Vo
+
 ## Author
 **Halimat Amzat** | Nigeria  
 Kujenga Africa-Europe Core AI Programme
