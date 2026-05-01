@@ -73,9 +73,9 @@ mum's footwear shop in Idumota market, Lagos Island. It covers
 
 ├── 📓 Halimat_Amzat_Nigeria_Final_project.ipynb
 
-├── 📊 idumota_footwear_lagos.csv
+├── 📄 README.mds
 
-└── 📄 README.md
+└── 📊 idumota_footwear_lagos.csv
 
 ## Why This Matters
 In Nigeria, informal retail accounts for 98% of all retail 
